@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BOJ15650",
+            "request": "launch",
+            "mainClass": "BOJ15650",
+            "projectName": "알고리즘_1072f0d0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BOJ15652",
+            "request": "launch",
+            "mainClass": "BOJ15652",
+            "projectName": "알고리즘_1072f0d0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BOJ15649",
+            "request": "launch",
+            "mainClass": "BOJ15649",
+            "projectName": "알고리즘_1072f0d0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "알고리즘_1072f0d0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SchoolManager",
+            "request": "launch",
+            "mainClass": "SchoolManager",
+            "console": "integratedTerminal"
+        }
+    ]
+}
