@@ -1,3 +1,3 @@
 # algorithm_study
 
-algorithm study
+algorithm 문제 정리
